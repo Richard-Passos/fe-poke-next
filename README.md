@@ -1,20 +1,17 @@
 <h1 align="center">:file_cabinet: Title</h1>
 
 ## :memo: Description
-Description of the project.
+Desafio pessoal: criei um simulador de Pokédex que permite aos usuários visualizarem os pokémons através de uma interface simulando a Pokédex. Além disso, é possível ver mais detalhes de cada pokémon, utilizando a navegação rápida fornecida pelo Next.js e o recurso de server-side rendering para uma experiência de usuário mais rápida e suave. Com este simulador de Pokédex, os usuários podem explorar e aprender mais sobre seus pokémons favoritos de forma divertida e interativa.
 
 ## :wrench: Technologies used
-* NextJs
-* TailwinddCSS
-* Jest
+* NextJS
+* Styled-components
 * JavaScript
-* CSS
-* HTML
 
 ## :rocket: Running the project
 To run the repository, it is recommended to access:
 ```
-https://project-url.com
+https://poke-next-seven-phi.vercel.app
 ```
 
 ## :handshake: Team
