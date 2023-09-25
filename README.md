@@ -16,7 +16,7 @@ Desafio pessoal: criei um simulador de Pokédex que permite aos usuários visual
 
 ## :rocket: Run project
 ```
-https://poke-next-seven-phi.vercel.app
+https://fe-poke-next.vercel.app
 ```
 
 <br>
