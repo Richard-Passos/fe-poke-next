@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Title</h1>
+<h1 align="center">:file_cabinet: Poke Next</h1>
 
 ## :memo: Description
 Desafio pessoal: criei um simulador de Pokédex que permite aos usuários visualizarem os pokémons através de uma interface simulando a Pokédex. Além disso, é possível ver mais detalhes de cada pokémon, utilizando a navegação rápida fornecida pelo Next.js e o recurso de server-side rendering para uma experiência de usuário mais rápida e suave. Com este simulador de Pokédex, os usuários podem explorar e aprender mais sobre seus pokémons favoritos de forma divertida e interativa.
